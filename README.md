@@ -1,34 +1,36 @@
 # joshua_dev03
 
-Estudiante de Licenciatura en Sistemas
+Estudiante de Licenciatura en Sistemas Interesado en:
 
-Interesado en:
-- Ciberseguridad
-- Linux
-- Redes
-- Programación
+-Desarrollo backend
+-Ciberseguridad
+-Sistemas Linux
+-Redes y protocolos
+-Programación
+-Bases de datos
 
-Experiencia utilizando Parrot OS y entornos Linux.
 
 PORTAFOLIO:
 https://portafoliojoshuadev.netlify.app/
 
 ## Tecnologías y herramientas
 
-- Java
-- Git y GitHub
-- Linux
-- SQL
-- HTML , CSS y JavaScript
-- Virtualización (KVM/QEMU)
+-Java
+-SQL
+-Git y GitHub
+-Linux
+-HTML, CSS y JavaScript
+-Parrot OS
+-Virtualización con KVM/QEMU
 
 ## Actualmente aprendiendo
 
-- Seguridad Informática
-- Administración de Sistemas Linux
-- Redes y Protocolos
-- Desarrollo de Software
+-Desarrollo de software
+-Seguridad informática
+-Administración de sistemas Linux
+-Redes y protocolos
+-Fundamentos para el desarrollo backend
 
 ## Objetivos
 
-Seguir desarrollando proyectos prácticos relacionados con programación, sistemas operativos, redes y ciberseguridad.
+Continuar desarrollando proyectos prácticos que me permitan fortalecer mis habilidades en programación, bases de datos, sistemas operativos, redes y ciberseguridad, con el objetivo de crecer profesionalmente.
