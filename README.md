@@ -29,7 +29,13 @@ Actualmente busco fortalecer mis conocimientos y adquirir experiencia profesiona
 
 ### 🌐 Catálogo Digital
 
-Proyecto web desarrollado con **HTML, CSS y JavaScript** para mostrar productos mediante un catálogo digital y facilitar pedidos por WhatsApp.
+**Jovel Esencias, Catálogo web comercial**
+
+Jovel nace de la combinación de Joshua y Barrera, dando identidad a un proyecto de negocio propio enfocado en la comercialización de lociones.
+
+El catálogo web fue desarrollado para presentar los productos, facilitar el contacto con clientes y apoyar el proceso de ventas mediante WhatsApp.
+##Catalogo
+https://jovel-esencias.netlify.app/
 
 **Aprendizaje:** desarrollo web, estructura de interfaces, JavaScript y control de versiones con Git/GitHub.
 
