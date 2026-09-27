@@ -2,7 +2,8 @@
 
 Soy estudiante de **Licenciatura en Sistemas**, actualmente en proceso de formación y desarrollo de mis habilidades técnicas.
 
-Me interesa aprender mediante proyectos prácticos y laboratorios, principalmente en áreas relacionadas con **sistemas operativos, soporte técnico, programación y virtualización**.
+Actualmente enfoco mi formación en **desarrollo backend, bases de datos y ciberseguridad**, complementando el aprendizaje académico con proyectos prácticos y laboratorios. Me interesa construir soluciones reales, comprender cómo funcionan los sistemas desde su base y desarrollar progresivamente habilidades en programación, Linux, bases de datos, APIs y seguridad.
+
 
 Actualmente busco fortalecer mis conocimientos y adquirir experiencia profesional en el área de tecnología.
 
@@ -24,6 +25,8 @@ Actualmente busco fortalecer mis conocimientos y adquirir experiencia profesiona
 * Redes y protocolos
 * Bases de datos
 * Fundamentos de ciberseguridad
+* Procesos y Algoritmos
+
 
 ## 💻 Proyectos
 
@@ -34,7 +37,8 @@ Actualmente busco fortalecer mis conocimientos y adquirir experiencia profesiona
 Jovel nace de la combinación de Joshua y Barrera, dando identidad a un proyecto de negocio propio enfocado en la comercialización de lociones.
 
 El catálogo web fue desarrollado para presentar los productos, facilitar el contacto con clientes y apoyar el proceso de ventas mediante WhatsApp.
-##Catalogo
+
+###Catalogo
 https://jovel-esencias.netlify.app/
 
 **Aprendizaje:** desarrollo web, estructura de interfaces, JavaScript y control de versiones con Git/GitHub.
